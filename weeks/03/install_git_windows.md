@@ -13,9 +13,8 @@ Du kan bare velge den anbefalte instillingen på de fleste spørsmål.
 
 Når Assistenten er ferdig kan du sjekke at alt har fungerer ved å åpne en Terminal-vindu (vi anbefaler at du installere [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=nb-no&gl=no)) og så skriver du:
 
-```bash
-git
-```
+
+
 
 Hvis installasjonen har fungerer så vil du få et lengre output som forklarer de forskjellige sub-kommandoer du kan bruke (Vi skal snakke om dem senere :wink:).
 
